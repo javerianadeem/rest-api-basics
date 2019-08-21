@@ -6,3 +6,4 @@ npm start (for starting nodemon)
 npm install --save morgan (logging package)
 npm install --save body-parser (extracts json data and makes it readable for us)
 npm install --save mongoose
+npm install --save multer
